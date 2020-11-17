@@ -1,4 +1,4 @@
-# Data-Science-Machine-Learning
+# Data Science e Machine Learning
 
 ### Universidade Federal de Campina Grande
 ### Aluno: Nathan Fernandes Pedroza
